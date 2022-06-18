@@ -1,0 +1,124 @@
+.header-area{
+    background: #3498bd;
+   
+}
+.text{
+    text-align: center;
+}
+.header-left{}
+.header-left img{
+    width: 100%px;
+    width: 130px;
+}
+.header-right{}
+.header-right ul{
+
+    margin-bottom: 0px;
+}
+.header-right ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.header-right ul li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 32px 20px;
+    font-size: 18px;
+    line-height: 70px;
+    border-right: 1px solid #ddd;
+    margin-left: -6px;
+}
+.header-right ul li:hover a{
+    background: black;
+}
+.banner{
+    background: url(.//images/bannar2.jpg) no-repeat center;
+    background-size: cover;
+    padding: 200px 0px;
+}
+.banner h3{
+    color: #fff;
+    font-size: 30px;
+}
+.banner h4{
+    color: #fff;
+}
+.about-section{
+    background: #555;
+}
+.content-top-text{
+    border: 1px solid #000;
+    margin: 10px;
+    border-radius: 5px;
+    background: #999;
+}
+.content-top-text a{
+    color: blue;
+    font-size: 40px;
+    margin-left:150px;
+    text-decoration: none;
+  
+}
+.content-top-text h4{
+
+   text-align: center;
+}
+.content-top-text p{
+    text-align: center;
+
+}
+.content-bottom{
+    margin-top: 10px;
+}
+.content-bottom-left-img img{
+    width: 220px;
+}
+.content-bottom-right-text{
+    margin-left: 20px;
+}
+.content-bottom-right-text h3{
+ margin-left: 35px;
+}
+.content-bottom-right-text h5{
+    background: #888;
+    color: #fff;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.contact-form{
+    margin-left: 80px;
+}
+.footer-area{
+    background: #3498bd;
+}
+.footer-area-left h5{
+    color: #ddd;
+    font-size: 15px;
+    padding-top: 13px;
+  
+}
+.footer-area-right{
+    padding-top: 13px;
+    margin-left: 100px;
+}
+.footer-area-right ul{
+    text-align: center;
+    
+}
+.footer-area-right ul li{
+    list-style: none;
+    display: inline-block;
+}
+.footer-area-right ul li a{
+    font-size: 25px;
+    padding: 10px 10px;
+    text-decoration: none;
+    color: blue;
+   
+}
+.footer-area-right ul li:hover a{
+    color: #2e7546;
+}
